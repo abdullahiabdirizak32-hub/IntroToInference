@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Intro to Inference — Workshop
 
 Welcome to the **Intro to Inference Workshop**!  
@@ -101,3 +102,7 @@ This workshop is intended for:
 5. Reflect and extend exercises with your own datasets.
 
 ---
+=======
+# IntroToInference
+InclassActivity
+>>>>>>> 37b3f9fa63d43973d1f90e18eba4daf3c4e5e21f
